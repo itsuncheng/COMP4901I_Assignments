@@ -4,7 +4,7 @@ This repo contains the assignments I have completed for the COMP4901I Building I
 
 `Assignment {no.} submission` directory contains the files/code I submitted while the `Building_Interactive_Intelligent_Systems_HW{no.}.pdf` is the problem sets for each assignment. Unfortunately, I could not find the instructions file for Assignment 3 but the code is still available.
 
-Outline of the AssignmentsL
+Outline of the Assignments:
 * Twitter sentiment analysis using Logistic Regression
 * Twitter sentiment analysis using CBOW embeddings and FeedForward Neural Network
 * Amazon product review rating classifier using word-based CNN
